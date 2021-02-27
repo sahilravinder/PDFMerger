@@ -1,0 +1,12 @@
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PDFMerger.exe.config
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PDFMerger.exe
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PDFMerger.pdb
+F:\workspace\c#\PDFMerger\PDFMerger\obj\Debug\PDFMerger.csprojResolveAssemblyReference.cache
+F:\workspace\c#\PDFMerger\PDFMerger\obj\Debug\PDFMerger.exe
+F:\workspace\c#\PDFMerger\PDFMerger\obj\Debug\PDFMerger.pdb
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PdfSharp.Charting.dll
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PdfSharp.dll
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PdfSharp.xml
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\PdfSharp.Charting.xml
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\de\PdfSharp.resources.dll
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Debug\de\PdfSharp.Charting.resources.dll

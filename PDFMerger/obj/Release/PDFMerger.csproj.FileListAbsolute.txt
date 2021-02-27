@@ -1,0 +1,11 @@
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PDFMerger.exe.config
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PDFMerger.exe
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PDFMerger.pdb
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PdfSharp.Charting.dll
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PdfSharp.dll
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PdfSharp.xml
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\PdfSharp.Charting.xml
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\de\PdfSharp.resources.dll
+F:\workspace\c#\PDFMerger\PDFMerger\bin\Release\de\PdfSharp.Charting.resources.dll
+F:\workspace\c#\PDFMerger\PDFMerger\obj\Release\PDFMerger.exe
+F:\workspace\c#\PDFMerger\PDFMerger\obj\Release\PDFMerger.pdb
